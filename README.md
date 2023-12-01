@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Álvaro Gómez Salguero
+- I studied web development and I'm trying to to improve my skills everyday(or at least some of them)
+- 👀 I’m interested in web development(strange rigth?), cibersecurity and manage data
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on projects as junior to learn(like a lot)
+- 📫 How to reach me https://www.linkedin.com/in/álvaro-gómez-salguero-b52281256/
